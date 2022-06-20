@@ -83,6 +83,10 @@ input:focus{
     border: solid #4973ef
 }
 
+input:invalid{
+    border: solid red
+}
+
 #create-account {
    background-color: #596D48;
    color: white;
